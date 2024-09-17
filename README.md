@@ -1,7 +1,14 @@
 # Tableau-Project
 ## Overview
 
-The dashboard provides a comprehensive analysis of a range of attributes related to employees, including personal details (age, gender, marital status), work-related metrics (job role, monthly income, satisfaction,), and performance indicators (attrition, salary hike). 
+The dashboard provides a comprehensive analysis of a range of attributes related to employees, including personal details, work-related metrics, and performance indicators.
+
+
+## Data
+
+The data provides a comprehensive overview of employee attrition and demographics, including attrition rates segmented by educational background, gender, and age group. It also includes the distribution of employees by age group, job satisfaction ratings, and department-wise attrition rates. Key Performance Indicators (KPIs) such as employee count, attrition count, attrition rate, average age, and the number of active employees are used to evaluate overall workforce stability and identify trends impacting employee retention. This dataset aims to reveal insights into factors driving attrition and areas for potential improvement in workforce management.
+
+Link: https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit?gid=2089618187#gid=2089618187
 
 
 ## Key insights 
